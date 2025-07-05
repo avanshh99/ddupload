@@ -1,3 +1,9 @@
 streamlit
 supabase
 python-dotenv
+pytesseract
+Pillow
+PyMuPDF
+python-pptx
+pandas
+openpyxl
